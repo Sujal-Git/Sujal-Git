@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujal Vishwakarma</h1>
 <h3 align="center">It student -> Learning Data Science 🤖🤖</h3>
-<img align="center" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg">
+<img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
