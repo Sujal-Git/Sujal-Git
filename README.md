@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal Vishwakarma</h1>
-<h3 align="center">It student ->  ML🤖🤖</h3>
+<h3 align="center">It student -> Frontend Dev.</h3>
 <img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
