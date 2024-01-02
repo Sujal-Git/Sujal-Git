@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sujal Vishwakarma</h1>
-<h3 align="center">IT student -> Frontend Dev.</h3>
-<img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<!-- Bio Section -->
+## 👨‍💻 Bio
+- 🌱 Aspiring MERN Stack Developer
+- 👨‍🎓 IT student with a passion for front-end development
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- Socials Section -->
+## 🌐 Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-sujal__88__-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sujal__88__/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sujal--litcode-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sujal-litcode)
 
-- 🌱 I’m currently learning **Reactjs /Mern stack**
+<!-- Tech Stack Section -->
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-4db6ac?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 📫 How to reach me **sujalvishwakarma93@gmail.com**
+<!-- GitHub Stats and Most Used Languages Cards Section -->
+## 📊 GitHub Statistics
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujal-Git&show_icons=true&count_private=true&hide=prs,issues&theme=dark)](https://github.com/YourGitHubUsername)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.leetcode.com/sujal-litcode" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujal-litcode" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/sujal__88__/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="30" width="40" />
-  </a>
-
-  </a>
-</p>
-
-
+## 📈 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-Git&layout=compact&theme=dark)](https://github.com/YourGitHubUsername)
