@@ -13,3 +13,4 @@
 - 🔢 NumPy  
 - 📈 Seaborn  
 - 📊 Power BI
+- 📂 SQL
