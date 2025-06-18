@@ -12,5 +12,5 @@
 - 🐼 Pandas  
 - 🔢 NumPy  
 - 📈 Seaborn  
-- 📊 Power BI
-- 📂 SQL
+- 📊 Tensorflow
+- 📂 Pytorch
