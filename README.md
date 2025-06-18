@@ -1,16 +1,14 @@
-# ✨Hi There!
+# ✨ Hi There!
 
-## 🧑‍💻 About
+## 🧠 About Me
 
-- Aspiring data analyst focused on data cleaning, exploration, and visualization.  
-- Passionate about turning raw data into meaningful insights.  
-- Projects include exploratory analysis, dashboards, and reporting.
+AI/ML Developer focused on building intelligent systems using clean, meaningful data.  
+Experience in model development, deep learning, and real-world data applications.
 
-## 🛠️ Tech i Use
+## 🛠️ Tech Stack
 
 - 🐍 Python  
-- 🐼 Pandas  
-- 🔢 NumPy  
-- 📈 Seaborn  
-- 📊 Tensorflow
-- 📂 Pytorch
+- 📦 NumPy, Pandas, Scikit-learn  
+- 📈 Seaborn, Matplotlib, Plotly  
+- 🤖 TensorFlow, PyTorch  
+- 📘 Jupyter, Google Colab  
