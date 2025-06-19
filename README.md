@@ -8,13 +8,11 @@
 ---
 
 ### 💼 Tools & Technologies I Use
-- 🐍 Python  
-- 🐼 Pandas · 🔢 NumPy · 🤹‍♂️ Scikit-learn  
-- 🧠 TensorFlow · 🔥 PyTorch  
-- 📈 Seaborn · 📊 Matplotlib · 🧩 Plotly  
-- 📒 Jupyter · ☁️ Google Colab  
-- 🗂️ SQL · 🧪 Git & GitHub  
+- 🐍 **Python**  
+- 📦 **Pandas**, **NumPy**, **Scikit-learn**  
+- 🧠 **TensorFlow**, **PyTorch**  
+- 📊 **Seaborn**, **Matplotlib**, **Plotly**  
+- 📓 **Jupyter**, **Google Colab**  
+- 💾 **SQL**, **Git**, **GitHub**
 
 ---
-
-
